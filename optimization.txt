@@ -1,0 +1,19 @@
+L:tta, ttg, cta, ctg, ctt:ctc
+S:tca, tcc, tct, agc, agt:tcg
+F:ttt:ttc
+I:ata, att:atc 
+V:gta, gtg, gtt:gtc 
+P:cca, ccg, cct:ccc
+T:aca, acg, act:acc
+A:gca, gcg, gct:gcc
+Stop:tag, tga:taa
+Y:tat:tac
+Q:caa:cag
+H:cat:cac
+K:aaa:aag
+N:aat:aac
+E:gaa:gag
+D:gat:gac
+C:tgt:tgc
+R:cga, cgg, cgt, aga, agg:cgc
+G:gga, ggg, ggt:ggc
